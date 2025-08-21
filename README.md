@@ -45,6 +45,7 @@ You can install the necessary Python libraries using `pip`:
 ```bash
 pip install coppeliasim-zmqremoteapi-client numpy opencv-python
 
+
 ## Usage
 
 1.  **Set up the CoppeliaSim environment**: Download and install the educational version of CoppeliaSim from their official website. Load the provided custom scene file, which contains predefined paths and robot models setup for the road following task.
